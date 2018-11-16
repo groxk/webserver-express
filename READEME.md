@@ -1,4 +1,4 @@
-## Webserver con Express, hbs, heruku básico
+## Webserver con Express, hbs, heroku básico
 
 Proyecto que utiliza Node.
 
